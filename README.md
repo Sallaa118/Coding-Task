@@ -1,5 +1,4 @@
 # PROGRAM_PERULANGAN_FOR_(Tugas1)
-
 Program ini adalah program sederhana yang mencetak angka dari 0 hingga 100, dengan pengecualian bahwa ketika angka mencapai 10 atau lebih, program akan mencetak nama "Sallaa Fikriyatul'Arifah" sebanyak 91 kali.
 
 ### CARA_KERJA_PROGRAM
@@ -11,9 +10,9 @@ Program ini menggunakan perulangan `for` untuk mengiterasi melalui angka dari 0 
 
 ### OUTPUT_PROGRAM
 Berikut ini adalah contoh keluaran program
+![Output Tugas1](https://github.com/Sallaa118/Coding-Task/blob/master/Output/WhatsApp%20Image%202023-11-03%20at%2020.46.09.jpeg?raw=true)
 
 # PROGRAM_PERULANGAN_WHILE_(Tugas2)
-
 Program ini adalah program sederhana yang mencetak angka dari 0 hingga 10, dan untuk setiap angka, program akan menentukan apakah itu adalah bilangan ganjil atau genap.
 
 ### CARA_KERJA_PROGRAM
@@ -25,6 +24,7 @@ Program ini menggunakan perulangan `while` untuk mengiterasi angka dari 0 hingga
 
 ### CONTOH_PROGRAM
 Berikut ini adalah contoh keluaran program:
+![Output Tugas2](https://github.com/Sallaa118/Coding-Task/blob/master/Output/WhatsApp%20Image%202023-11-03%20at%2020.32.23.jpeg?raw=true)
 
 # PROGRAM_PENENTUAN_ZODIAK_(Tugas3)
 Aplikasi ini adalah program Java sederhana yang meminta pengguna untuk memasukkan bulan dan tanggal lahir mereka dan kemudian menentukan zodiak berdasarkan input tersebut.
@@ -56,6 +56,7 @@ Program ini mendukung daftar zodiak berikut:
 
 ### OUTPUT_PROGRAM
 Berikut ini adalah contoh keluaran program:
+![Output Tugas3](https://github.com/Sallaa118/Coding-Task/blob/master/Output/WhatsApp%20Image%202023-11-03%20at%2020.22.19.jpeg?raw=true)
 
 # PROGRAM_ARRAY_(Tugas4)
 Aplikasi ini adalah program sederhana yang digunakan untuk menampilkan daftar tugas dalam bentuk array. Program ini ditulis dalam bahasa pemrograman Java.
@@ -70,6 +71,7 @@ Program ini memiliki satu array dengan nama `tugas`, yang berisi daftar tugas ya
 
 ### OUTPUT_PROGRAM
 Berikut ini adalah contoh keluaran program:
+![output Tugas4](https://github.com/Sallaa118/Coding-Task/blob/master/Output/WhatsApp%20Image%202023-11-03%20at%2020.16.31.jpeg?raw=true)
 
 ### CREDIT
 > Sallaa118
